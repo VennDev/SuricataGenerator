@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = 'AIzaSyCmT0qcbBlcvKnYjVcVETZQiEjDEZVdfC0';
+const GEMINI_API_KEY = '';
 
 function copyRule() {
     const ruleText = document.getElementById('ruleOutput').innerText;
