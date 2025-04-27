@@ -1,3 +1,4 @@
+// Sửa lại API key của bạn ở đây!
 const GEMINI_API_KEY = '';
 
 function copyRule() {
